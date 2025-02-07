@@ -1,4 +1,4 @@
-# Task mAIstro
+# Voice Agent X Langgraph
 
 Managing tasks effectively is a universal challenge. Task mAIstro is an AI-powered task management agent that combines natural language processing with long-term memory to create a more intuitive and adaptive experience. This repo can be used to deploy Task mAIstro and interact with it through text or voice!
 
