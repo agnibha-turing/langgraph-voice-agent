@@ -1,0 +1,14 @@
+langgraph
+langchain-core
+langchain-community
+langchain-openai
+trustcall
+ipython
+python-dotenv
+numpy
+sounddevice
+scipy
+openai
+elevenlabs
+setuptools
+webrtcvad
